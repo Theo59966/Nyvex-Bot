@@ -93,14 +93,14 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#98F5FF",
-      secondary: "#2F3136",
+      primary: "#FFFFFF",
+      secondary: "#FFFFFF",
 
       // Standard status colors for success/error/warning/info messages.
-      success: "#57F287",
-      error: "#ED4245",
-      warning: "#FEE75C",
-      info: "#3498DB",
+      success: "#FFFFFF",
+      error: "#FFFFFF",
+      warning: "#FFFFFF",
+      info: "#FFFFFF",
 
       // Neutral utility colors.
       light: "#FFFFFF",
@@ -121,10 +121,10 @@ export const botConfig = {
         ended: "#ED4245",
       },
       ticket: {
-        open: "##98F5FF",
-        claimed: "#98F5FF",
-        closed: "#ED4245",
-        pending: "#99AAB5",
+        open: "#FFFFFF",
+        claimed: "#FFFFFF",
+        closed: "#FFFFFF",
+        pending: "#FFFFFF",
       },
       economy: "#F1C40F",
       birthday: "#E91E63",
@@ -223,27 +223,27 @@ export const botConfig = {
     priorities: {
       none: {
         emoji: "⚪",
-        color: "#95A5A6",
+        color: "#FFFFFF",
         label: "None",
       },
       low: {
         emoji: "🟢",
-        color: "#2ECC71",
+        color: "#FFFFFF",
         label: "Low",
       },
       medium: {
         emoji: "🟡",
-        color: "#F1C40F",
+        color: "#FFFFFF",
         label: "Medium",
       },
       high: {
         emoji: "🔴",
-        color: "#E74C3C",
+        color: "#FFFFFF",
         label: "High",
       },
       urgent: {
         emoji: "🚨",
-        color: "#E91E63",
+        color: "#FFFFFF",
         label: "Urgent",
       },
     },
